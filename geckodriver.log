@@ -1,0 +1,699 @@
+1669298150460	geckodriver	INFO	Listening on 127.0.0.1:60043
+1669298150998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilejVgD7Q"
+1669298152153	Marionette	INFO	Marionette enabled
+1669298152157	Marionette	INFO	Listening on port 60051
+Read port: 60051
+WebDriver BiDi listening on ws://127.0.0.1:60044
+1669298152279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilejVgD7Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60044/devtools/browser/381b155e-f205-4814-99d0-2633ad6ece6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669298194968	geckodriver	INFO	Listening on 127.0.0.1:60136
+1669298195479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileaQPZAh"
+1669298195735	Marionette	INFO	Marionette enabled
+1669298195738	Marionette	INFO	Listening on port 60144
+WebDriver BiDi listening on ws://127.0.0.1:60137
+Read port: 60144
+1669298195921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileaQPZAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60137/devtools/browser/9cc453f4-e12f-4367-94b7-80284e85b2ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669298230884	Marionette	INFO	Stopped listening on port 60144
+1669298253003	geckodriver	INFO	Listening on 127.0.0.1:60236
+1669298253531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileZ3yGpi"
+1669298253792	Marionette	INFO	Marionette enabled
+1669298253796	Marionette	INFO	Listening on port 60244
+WebDriver BiDi listening on ws://127.0.0.1:60237
+Read port: 60244
+1669298253984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileZ3yGpi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60237/devtools/browser/ccfc2f6a-d53e-4994-b5ed-33cf14022dd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669298367793	geckodriver	INFO	Listening on 127.0.0.1:60356
+1669298368320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileXm8FxC"
+1669298368571	Marionette	INFO	Marionette enabled
+1669298368574	Marionette	INFO	Listening on port 60364
+WebDriver BiDi listening on ws://127.0.0.1:60357
+Read port: 60364
+1669298368752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileXm8FxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60357/devtools/browser/b7ac55c0-82bb-49cd-8cee-3339329dd29e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669298431384	geckodriver	INFO	Listening on 127.0.0.1:60476
+1669298431891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileCIjAaa"
+1669298432143	Marionette	INFO	Marionette enabled
+1669298432146	Marionette	INFO	Listening on port 60484
+WebDriver BiDi listening on ws://127.0.0.1:60477
+Read port: 60484
+1669298432321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileCIjAaa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60477/devtools/browser/fb199b2f-c903-42c5-a61f-3d813a7bca15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669298576874	geckodriver	INFO	Listening on 127.0.0.1:60620
+1669298577382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilerbGlO5"
+1669298577637	Marionette	INFO	Marionette enabled
+1669298577641	Marionette	INFO	Listening on port 60628
+WebDriver BiDi listening on ws://127.0.0.1:60621
+Read port: 60628
+1669298577821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilerbGlO5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60621/devtools/browser/67c10b0b-e9f0-4466-9780-5b362b8245bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669298618675	geckodriver	INFO	Listening on 127.0.0.1:60716
+1669298619204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile7h20wg"
+1669298619457	Marionette	INFO	Marionette enabled
+1669298619460	Marionette	INFO	Listening on port 60724
+WebDriver BiDi listening on ws://127.0.0.1:60717
+Read port: 60724
+1669298619642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile7h20wg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60717/devtools/browser/c00128ac-5007-4496-b6ee-cbac29d0744b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669298887563	geckodriver	INFO	Listening on 127.0.0.1:60930
+1669298888081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileLd67vl"
+1669298888334	Marionette	INFO	Marionette enabled
+1669298888338	Marionette	INFO	Listening on port 60939
+WebDriver BiDi listening on ws://127.0.0.1:60931
+Read port: 60939
+1669298888511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileLd67vl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60931/devtools/browser/bddf40c1-0740-4204-8b66-19d7f5af11e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669300201540	geckodriver	INFO	Listening on 127.0.0.1:61672
+1669300202061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileUTIO81"
+1669300202322	Marionette	INFO	Marionette enabled
+1669300202325	Marionette	INFO	Listening on port 61680
+WebDriver BiDi listening on ws://127.0.0.1:61673
+Read port: 61680
+1669300202474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileUTIO81\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61673/devtools/browser/8efd893c-138e-4bca-9de9-67cf79d8740e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669300351753	geckodriver	INFO	Listening on 127.0.0.1:61841
+1669300352273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilep4HT7Q"
+1669300352538	Marionette	INFO	Marionette enabled
+1669300352542	Marionette	INFO	Listening on port 61849
+WebDriver BiDi listening on ws://127.0.0.1:61842
+Read port: 61849
+1669300352695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilep4HT7Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61842/devtools/browser/da1a106a-5a11-4ad7-ae9d-0a4456e29e26
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669300374612	Marionette	INFO	Stopped listening on port 61849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669300535503	geckodriver	INFO	Listening on 127.0.0.1:62015
+1669300536004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilezfZAlB"
+1669300536256	Marionette	INFO	Marionette enabled
+1669300536260	Marionette	INFO	Listening on port 62023
+WebDriver BiDi listening on ws://127.0.0.1:62016
+Read port: 62023
+1669300536516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilezfZAlB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62016/devtools/browser/1c28f4a5-0b68-4f2f-8239-36046a414fed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669300552767	Marionette	INFO	Stopped listening on port 62023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669300683112	geckodriver	INFO	Listening on 127.0.0.1:62316
+1669300683641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilelrJDo7"
+1669300683902	Marionette	INFO	Marionette enabled
+1669300683906	Marionette	INFO	Listening on port 62324
+WebDriver BiDi listening on ws://127.0.0.1:62317
+Read port: 62324
+1669300684059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilelrJDo7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62317/devtools/browser/f11dc64e-fbc5-406c-ab39-069d7596554e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669300746383	geckodriver	INFO	Listening on 127.0.0.1:62436
+1669300746891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileoT5tu5"
+1669300747154	Marionette	INFO	Marionette enabled
+1669300747157	Marionette	INFO	Listening on port 62444
+WebDriver BiDi listening on ws://127.0.0.1:62437
+Read port: 62444
+1669300747327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileoT5tu5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62437/devtools/browser/57112b9f-67ce-4014-ac39-ba71831486a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669301069376	geckodriver	INFO	Listening on 127.0.0.1:62800
+1669301069897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileXK9i5o"
+1669301070179	Marionette	INFO	Marionette enabled
+1669301070183	Marionette	INFO	Listening on port 62809
+Read port: 62809
+WebDriver BiDi listening on ws://127.0.0.1:62801
+1669301070271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileXK9i5o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62801/devtools/browser/2bd9a398-5035-4e0d-9f46-62d2ee334463
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669301281822	geckodriver	INFO	Listening on 127.0.0.1:63004
+1669301282351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileFWQoMW"
+1669301282611	Marionette	INFO	Marionette enabled
+1669301282614	Marionette	INFO	Listening on port 63012
+WebDriver BiDi listening on ws://127.0.0.1:63005
+Read port: 63012
+1669301282791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileFWQoMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63005/devtools/browser/db775ba4-c059-4b5c-9a6e-161c50a2d3af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669301399384	geckodriver	INFO	Listening on 127.0.0.1:63152
+1669301399906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileLTbQkx"
+1669301400163	Marionette	INFO	Marionette enabled
+1669301400166	Marionette	INFO	Listening on port 63160
+WebDriver BiDi listening on ws://127.0.0.1:63153
+Read port: 63160
+1669301400347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileLTbQkx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63153/devtools/browser/b62cc9d5-736c-482d-a5ec-8be2e75707f3
+1669301441752	geckodriver	INFO	Listening on 127.0.0.1:63212
+1669301442282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile0j6d8I"
+1669301442544	Marionette	INFO	Marionette enabled
+1669301442547	Marionette	INFO	Listening on port 63220
+WebDriver BiDi listening on ws://127.0.0.1:63213
+Read port: 63220
+1669301442729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile0j6d8I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63213/devtools/browser/ed19d579-0eb6-4aad-963a-6bd511c09314
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669678608676	geckodriver	INFO	Listening on 127.0.0.1:58627
+1669678609183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilew7epxI"
+1669678610402	Marionette	INFO	Marionette enabled
+1669678610407	Marionette	INFO	Listening on port 58635
+Read port: 58635
+WebDriver BiDi listening on ws://127.0.0.1:58628
+1669678610576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilew7epxI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58628/devtools/browser/0e272473-98af-4813-9c6c-fa3a33b7b6bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669679823205	geckodriver	INFO	Listening on 127.0.0.1:58831
+1669679823734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilefFFEgh"
+1669679824030	Marionette	INFO	Marionette enabled
+1669679824034	Marionette	INFO	Listening on port 58839
+Read port: 58839
+WebDriver BiDi listening on ws://127.0.0.1:58832
+1669679824109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilefFFEgh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58832/devtools/browser/9c516cca-ea45-4afa-95ab-4bd3cf68a9fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669679839758	geckodriver	INFO	Listening on 127.0.0.1:58889
+1669679840277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilevulTA9"
+1669679840544	Marionette	INFO	Marionette enabled
+1669679840548	Marionette	INFO	Listening on port 58897
+WebDriver BiDi listening on ws://127.0.0.1:58890
+Read port: 58897
+1669679840728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilevulTA9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58890/devtools/browser/05ca71b3-cdb2-4ac1-af71-9cfa59aaab5f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669680043013	geckodriver	INFO	Listening on 127.0.0.1:58960
+1669680043519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileAfY6AV"
+1669680043774	Marionette	INFO	Marionette enabled
+1669680043777	Marionette	INFO	Listening on port 58968
+WebDriver BiDi listening on ws://127.0.0.1:58961
+Read port: 58968
+1669680043952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileAfY6AV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58961/devtools/browser/46db6081-3ce0-4bc4-817e-935feb66b468
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669680068662	Marionette	INFO	Stopped listening on port 58968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669680145706	geckodriver	INFO	Listening on 127.0.0.1:59036
+1669680146229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile6wgb6y"
+1669680146484	Marionette	INFO	Marionette enabled
+1669680146488	Marionette	INFO	Listening on port 59044
+WebDriver BiDi listening on ws://127.0.0.1:59037
+Read port: 59044
+1669680146665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile6wgb6y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59037/devtools/browser/77f9a1a7-3742-4a36-8756-4f225d1a2e46
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669680155475	Marionette	INFO	Stopped listening on port 59044
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669680243535	geckodriver	INFO	Listening on 127.0.0.1:59092
+1669680244062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileePhTpU"
+1669680244323	Marionette	INFO	Marionette enabled
+1669680244327	Marionette	INFO	Listening on port 59100
+WebDriver BiDi listening on ws://127.0.0.1:59093
+Read port: 59100
+1669680244498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileePhTpU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59093/devtools/browser/e58b3ffa-911a-43ec-83e6-8fb93dcfc279
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669680331363	geckodriver	INFO	Listening on 127.0.0.1:59150
+1669680331867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileONjqOJ"
+1669680332134	Marionette	INFO	Marionette enabled
+1669680332137	Marionette	INFO	Listening on port 59158
+WebDriver BiDi listening on ws://127.0.0.1:59151
+Read port: 59158
+1669680332314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileONjqOJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59151/devtools/browser/456ed721-a03d-47f4-bd19-ae789868c41f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669680844024	geckodriver	INFO	Listening on 127.0.0.1:59262
+1669680844552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileKwMpSZ"
+1669680854815	geckodriver	INFO	Listening on 127.0.0.1:59271
+1669680855331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileB2l5d5"
+1669680855599	Marionette	INFO	Marionette enabled
+1669680855602	Marionette	INFO	Listening on port 59279
+WebDriver BiDi listening on ws://127.0.0.1:59272
+Read port: 59279
+1669680855754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileB2l5d5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59272/devtools/browser/3c8f1728-9a07-4096-b780-8a8e32b44fc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669680999329	geckodriver	INFO	Listening on 127.0.0.1:59340
+1669680999846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileBlnHb1"
+1669681000114	Marionette	INFO	Marionette enabled
+1669681000118	Marionette	INFO	Listening on port 59348
+WebDriver BiDi listening on ws://127.0.0.1:59341
+Read port: 59348
+1669681000265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileBlnHb1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59341/devtools/browser/b8e48a33-a134-4a31-bf2a-a04c266df45a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669681049101	geckodriver	INFO	Listening on 127.0.0.1:59413
+1669681049622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileaaOiQw"
+1669681049873	Marionette	INFO	Marionette enabled
+1669681049877	Marionette	INFO	Listening on port 59421
+WebDriver BiDi listening on ws://127.0.0.1:59414
+Read port: 59421
+1669681050070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileaaOiQw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59414/devtools/browser/67b49516-48e3-41b4-bd0c-6234d95e1f5e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669681104954	geckodriver	INFO	Listening on 127.0.0.1:59487
+1669681105463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile48pCBX"
+1669681105721	Marionette	INFO	Marionette enabled
+1669681105724	Marionette	INFO	Listening on port 59495
+WebDriver BiDi listening on ws://127.0.0.1:59488
+Read port: 59495
+1669681105901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile48pCBX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59488/devtools/browser/42cb15ef-8527-484c-a6e9-790380b5931c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669681130096	geckodriver	INFO	Listening on 127.0.0.1:59556
+1669681130611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilejbDfNH"
+1669681130871	Marionette	INFO	Marionette enabled
+1669681130874	Marionette	INFO	Listening on port 59564
+WebDriver BiDi listening on ws://127.0.0.1:59557
+Read port: 59564
+1669681131045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilejbDfNH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59557/devtools/browser/f47ff074-8108-46ea-ad7c-6879e692cdda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669681259564	geckodriver	INFO	Listening on 127.0.0.1:59633
+1669681260094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile3fjWYS"
+1669681260356	Marionette	INFO	Marionette enabled
+1669681260359	Marionette	INFO	Listening on port 59641
+WebDriver BiDi listening on ws://127.0.0.1:59634
+Read port: 59641
+1669681260530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile3fjWYS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59634/devtools/browser/d39c3bb4-a66f-4756-bbbe-82401118e536
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669681353009	geckodriver	INFO	Listening on 127.0.0.1:59714
+1669681353516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilecHbUUH"
+1669681353778	Marionette	INFO	Marionette enabled
+1669681353781	Marionette	INFO	Listening on port 59722
+WebDriver BiDi listening on ws://127.0.0.1:59715
+Read port: 59722
+1669681353960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilecHbUUH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59715/devtools/browser/0cde2432-0721-4d5b-b21d-04eaec6da327
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669681365172	geckodriver	INFO	Listening on 127.0.0.1:59789
+1669681365699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileDfBPRg"
+1669681365959	Marionette	INFO	Marionette enabled
+1669681365963	Marionette	INFO	Listening on port 59797
+WebDriver BiDi listening on ws://127.0.0.1:59790
+Read port: 59797
+1669681366177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileDfBPRg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59790/devtools/browser/e3ff8644-1bac-47bc-97fe-6f5bb264c47e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1669681486478	geckodriver	INFO	Listening on 127.0.0.1:59839
+1669681486991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilelJUK5U"
+1669681487244	Marionette	INFO	Marionette enabled
+1669681487248	Marionette	INFO	Listening on port 59847
+WebDriver BiDi listening on ws://127.0.0.1:59840
+Read port: 59847
+1669681487423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilelJUK5U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59840/devtools/browser/addcfa5a-e2b7-48f8-8d44-db1546667bf1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669681531028	geckodriver	INFO	Listening on 127.0.0.1:59921
+1669681531541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilejIdiPw"
+1669681531815	Marionette	INFO	Marionette enabled
+1669681531819	Marionette	INFO	Listening on port 59929
+WebDriver BiDi listening on ws://127.0.0.1:59922
+Read port: 59929
+1669681531964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilejIdiPw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59922/devtools/browser/93dd6e4a-2c10-4c45-93d2-d82ed8b32a14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669681890998	geckodriver	INFO	Listening on 127.0.0.1:60086
+1669681891528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileam5W4o"
+1669681891797	Marionette	INFO	Marionette enabled
+1669681891800	Marionette	INFO	Listening on port 60094
+WebDriver BiDi listening on ws://127.0.0.1:60087
+Read port: 60094
+1669681891949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileam5W4o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60087/devtools/browser/2d93d5aa-a5dd-4ffd-ab92-b2b45da24633
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669681991231	geckodriver	INFO	Listening on 127.0.0.1:60170
+1669681991754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile5IiFmG"
+1669681992022	Marionette	INFO	Marionette enabled
+1669681992026	Marionette	INFO	Listening on port 60178
+WebDriver BiDi listening on ws://127.0.0.1:60171
+Read port: 60178
+1669681992169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile5IiFmG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60171/devtools/browser/c5ac27bc-273e-484e-8f58-2ffe914ef2f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670059661002	geckodriver	INFO	Listening on 127.0.0.1:55535
+1670059661534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile00RRne"
+1670059727063	geckodriver	INFO	Listening on 127.0.0.1:55563
+1670059727609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilealrXv7"
+1670059727858	Marionette	INFO	Marionette enabled
+1670059727861	Marionette	INFO	Listening on port 55571
+WebDriver BiDi listening on ws://127.0.0.1:55564
+Read port: 55571
+1670059728064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilealrXv7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55564/devtools/browser/2db956ee-efae-4af4-a242-078f05bcacba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670059733963	Marionette	INFO	Stopped listening on port 55571
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670059842880	geckodriver	INFO	Listening on 127.0.0.1:55678
+1670059843385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileeV3rW5"
+1670059843633	Marionette	INFO	Marionette enabled
+1670059843636	Marionette	INFO	Listening on port 55686
+WebDriver BiDi listening on ws://127.0.0.1:55679
+Read port: 55686
+1670059843847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileeV3rW5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55679/devtools/browser/d677bf49-f1f4-4e65-b0de-8e5b84b1f76e
+1670059848505	Marionette	INFO	Stopped listening on port 55686
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670060001485	geckodriver	INFO	Listening on 127.0.0.1:55761
+1670060001999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofiles9xJkb"
+1670060002402	Marionette	INFO	Marionette enabled
+1670060002406	Marionette	INFO	Listening on port 55815
+Read port: 55813
+WebDriver BiDi listening on ws://127.0.0.1:55763
+1670060002561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileJyOHjn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55763/devtools/browser/ddc60ab4-108b-4584-bb6d-63950739edcf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670060168535	Marionette	INFO	Stopped listening on port 55812
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+pped listening on port 55810
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: AbortError: Error retrieving push subscription.
+JavaScript error: , line 0: uncaught exception: Timeout
+1670060167645	Marionette	INFO	Stopped listening on port 55813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670060379914	geckodriver	INFO	Listening on 127.0.0.1:56284
+1670060380453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileTVLAfv"
+1670060380909	Marionette	INFO	Marionette enabled
+1670060380914	Marionette	INFO	Listening on port 56351
+WebDriver BiDi listening on ws://127.0.0.1:56285
+Read port: 56351
+1670060381299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileWiPngs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56289/devtools/browser/f057da4d-e1d4-4595-988e-b63507825891
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670060576763	Marionette	INFO	Stopped listening on port 56343
+console.warn: TopSitesFeed: F1670060577440	Marionette	INFO	Stopped listening on port 56351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+	Stopped listening on port 56341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2332, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670060679487	geckodriver	INFO	Listening on 127.0.0.1:56837
+1670060680002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileJMo4Lx"
+1670060680431	Marionette	INFO	Marionette enabled
+1670060680436	Marionette	INFO	Listening on port 56892
+WebDriver BiDi listening on ws://127.0.0.1:56842
+Read port: 56892
+1670060680949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileJ0PNDL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56843/devtools/browser/af826771-d8c8-4135-adf5-853eedeac2be
+1670060868126	Marionette	INFO	Stopped listening on port 56889
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+g on 127.0.0.1:57320
+1670060843459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilevOaMb8"
+1670060843906	Marionette	INFO	Marionette enabled
+1670060843910	Marionette	INFO	Listening on port 57383
+WebDriver BiDi listening on ws://127.0.0.1:57329
+Read port: 57383
+1670060844337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileiMbEcE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57323/devtools/browser/9b9e2c30-806a-4f8d-ab70-c163fe876365
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670060872920	Marionette	INFO	Stopped listening on port 57376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ntent/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670060872150	Marionette	INFO	Stopped listening on port 57377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670060965867	geckodriver	INFO	Listening on 127.0.0.1:57731
+1670060966410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilea4tzBH"
+1670060966859	Marionette	INFO	Marionette enabled
+1670060966868	Marionette	INFO	Listening on port 57785
+WebDriver BiDi listening on ws://127.0.0.1:57725
+Read port: 57785
+1670060967313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileH2qFKD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57721/devtools/browser/fcb53244-e45e-4d25-8103-44860dc7a00b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670061226890	Marionette	INFO	Stopped listening on port 57782
+console.warn: TopSitesFeed: F1670061228158	Marionette	INFO	Stopped listening on port 57780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670061327819	geckodriver	INFO	Listening on 127.0.0.1:58278
+1670061328374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile8FB308"
+1670061328795	Marionette	INFO	Marionette enabled
+1670061328799	Marionette	INFO	Listening on port 58338
+WebDriver BiDi liWebDriver BiDi listening on ws://127.0.0.1:58283
+1670061329188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileP6AdQw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58279/devtools/browser/a6d94588-c8ca-4f40-9686-1c7656cbe18e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670061477084	Marionette	INFO	Stopped listening on port 58336
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2464, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 2464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+0061475678	Marionette	INFO	Stopped listening on port 58332
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670061948101	geckodriver	INFO	Listening on 127.0.0.1:58933
+1670061948651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile5QoJiO"
+1670061949105	Marionette	INFO	Marionette enabled
+1670061949110	Marionette	INFO	Listening on port 58988
+WebDriver BiDi listening on ws://127.0.0.1:58930
+Read port: 58988
+1670061949556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilenoYzQa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58922/devtools/browser/cdb8da46-0468-4463-968e-cc356082e14b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670062946207	Marionette	INFO	Stopped li1670062946991	Marionette	INFO	Stopped listening on p1670062947865	Marionette	INFO	Stopped listening on port 58980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670062944754	Marionette	INFO	Stopped listening on port 58981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670063019810	geckodriver	INFO	Listening on 127.0.0.1:59842
+1670063020344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileQRbiTn"
+1670063020794	Marionette	INFO	Marionette enabled
+1670063020799	Marionette	INFO	Listening on port 59903
+WebDriver BiDi listening on ws://127.0.0.1:59846
+Read port: 59900
+1670063021368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileQRbiTn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59846/devtools/browser/0b586546-cbad-4388-8348-9634d9346124
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670063069368	Marionette	INFO	Stopped listening on port 59898
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+5:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670063068654	Marionette	INFO	Stopped listening on port 59903
+console.warn: TopSitesFeed: Failed to fetch data from Con1670063070025	Marionette	INFO	Stopped listening on port 59897
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 21864, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+x\\firefox.exe" "--marionette" "--remote-debugging-port" "60274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile3y2STT"
+1670063076946	Marionette	INFO	Marionette enabled
+1670063076950	Marionette	INFO	Listening on port 60330
+WebDriver BiDi listening on ws://127.0.0.1:60274
+Read port: 60330
+1670063077385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile3y2STT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60274/devtools/browser/4d784a2a-f8c8-4bd1-ba9c-8419d72815f6
+1670063085663	Marionette	INFO	Stopped listening on port 60330
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ndefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670063102070	geckodriver	INFO	Listening on 127.0.0.1:60488
+1670063102589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileYrBkhM"
+1670063102997	Marionette	INFO	Marionette enabled
+1670063103002	Marionette	INFO	Listening on port 60543
+Read port: 60543
+WebDriver BiDi listening on ws://127.0.0.1:60486
+1670063103242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileOK7oWN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60493/devtools/browser/2874dfaa-af83-4ac8-bb7c-fa40da7bea6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Java1670063342363	Marionette	INFO	Stopped listening on port 60543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+to f1670063343250	Marionette	INFO	Stopped listening on port 60540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e for: https://celeb.tv."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670063338853	Marionette	INFO	Stopped listening on port 60537
+console.warn: TopSitesFee1670063341072	Marionette	INFO	Stopped listening on port 60538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+esource.
+ch data from Contile server: NetworkError when attempting to fetch resource.
+1670063603837	geckodriver	INFO	Listening on 127.0.0.1:61520
+1670063604385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileXfD3pl"
+1670063604852	Marionette	INFO	Marionette enabled
+1670063604857	Marionette	INFO	Listening on port 61586
+WebDriver BiDi listening on ws://127.0.0.1:61524
+Read port: 61586
+1670063605316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile4qYTuv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61521/devtools/browser/5d96d1da-df0b-4e12-863a-6c2f134b2c5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670063828941	Marionette	INFO	Stopped listening on port 61570
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+led to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670064077020	geckodriver	INFO	Listening on 127.0.0.1:62251
+1670064077543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile4uqnyp"
+1670064077955	Marionette	INFO	Marionette enabled
+1670064077961	Marionette	INFO	Listening on port 62307
+Read port: 62307
+WebDriver BiDi listening on ws://127.0.0.1:62258
+1670064078090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilen5WP5L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62257/devtools/browser/ef6a2d80-8ce8-4fdd-aba7-68495789e96c
+JavaScript error: https://celeb.tv/main.js?d0222b3ed8ce5cb49f2a, line 34: Error: Request aborted
+JavaScript error: https://celeb.tv/main.js?d0222b3ed8ce5cb49f2a, line 34: Error: Reque1670064411724	Marionette	INFO	Stopped listening on port 62307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+opSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+.sys.mjs:173:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670064410425	Marionette	INFO	Stopped listening on port 62305
+console.warn: TopSitesFee1670064411081	Marionette	INFO	Stopped listening on port 62302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+esource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670064438680	geckodriver	INFO	Listening on 127.0.0.1:63148
+1670064439232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileSfXk3k"
+1670064439677	Marionette	INFO	Marionette enabled
+1670064439706	Marionette	INFO	Listening on port 63213
+Read port: 63213
+WebDriver BiDi listening on ws://127.0.0.1:63157
+1670064440126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileo48ZU2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63155/devtools/browser/123f9109-de25-4d7b-848b-6ffb38d7946b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670064522185	Marionette	INFO	Stopped listening on port 63202
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError whe1670064522959	Marionette	INFO	Stopped listening on port 63205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+01
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670064547665	geckodriver	INFO	Listening on 127.0.0.1:63552
+1670064548210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileLZHo10"
+1670064548650	Marionette	INFO	Marionette enabled
+1670064548667	Marionette	INFO	Listening on port 63618
+WebDriver BiDi listening on ws://127.0.0.1:63556
+Read port: 63618
+1670064549056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofileLZHo10\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63556/devtools/browser/04181752-a071-4a53-9ebf-03c9b72d2897
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://celeb.tv."
+1670064589642	Marionette	INFO	Stopped listening on port 63611
+console.warn: TopSitesFeed: F1670064590304	Marionette	INFO	Stopped listening on port 63609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670064587506	Marionette	INFO	Stopped listening on port 63607
+[Parent 20792, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670064606955	geckodriver	INFO	Listening on 127.0.0.1:63958
+1670064607500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofile98xQoM"
+1670064607953	Marionette	INFO	Marionette enabled
+1670064607958	Marionette	INFO	Listening on port 64020
+WebDriver BiDi listening on ws://127.0.0.1:63959
+Read port: 64020
+1670064608444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\senj1\\AppData\\Local\\Temp\\rust_mozprofilezJS1Aj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63959/devtools/browser/b0c97976-15dc-498f-befd-79df6d62c343
+1670064680320	Marionette	INFO	Stopped listening on port 64020
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+t]1670064639148	Marionette	INFO	Stopped listening on port 64013
+[Parent 10196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tte/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670064681564	Marionette	INFO	Stopped listening on port 64009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
